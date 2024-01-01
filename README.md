@@ -1,4 +1,4 @@
-### CS6993 Spring 2024 Independent Study in Proof Assistants: Syllabus
+### Spring 2024 CS6993 Independent Study in Proof Assistants: Syllabus
 
 #### Logistical Information
 
