@@ -20,7 +20,12 @@ After completing this study the student will be able to:
     - Application of Probabilistic Relational Hoare Logics to probabilistic programs. 
 - Program functionally and write verified proofs of programs in Coq
 - Program probabilistically and write verified proofs of programs in EasyCrypt
-  
+
+#### Required Course Materials
+
+You will need to (Software Foundations)[https://softwarefoundations.cis.upenn.edu/lf-current/toc.html].
+
+
 #### Statement about Academic Integrity
 https://www.uvm.edu/policies/student/acadintegrity.pdf
 
