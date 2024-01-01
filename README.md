@@ -16,8 +16,8 @@ After completing this study the student will be able to:
 - Understand how to use proof assistants for defining and proving properties of programs, including:
     - Application of Hoare Logics to functional programs.
     - Defining and reasoning about inductive structures.
-    - Probabilistic programming
-    - Application of Probabilistic Relational Hoare Logics
+    - Probabilistic programming- how and why.
+    - Application of Probabilistic Relational Hoare Logics to probabilistic programs. 
 - Program functionally and write verified proofs of programs in Coq
 - Program probabilistically and write verified proofs of programs in EasyCrypt
   
