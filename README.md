@@ -5,16 +5,28 @@
 - Instructor: *Prof. Christian Skalka*
 - 3 credits
 - Weekly seminar on Tuesdays 2:45-4:15, Innovation E325
+
+#### Course Description
+
+This course is a seminar-style independent study group focused on automated proof assistants and mechanized metatheory. We will specifically focus on Coq and EasyCrypt. We will investigate both foundational elements of these systems, but our focus will be on practical use. We will mainly consider applications to programming languages, including Hoare Logics, as well as probabilistic programming especially for cryptographic protocols. 
+
+#### Learning Objectives
+
+After completing this study the student will be able to:
+- Understand how to use proof assistants for defining and proving properties of programs, including:
++ Application of Hoare Logics to functional programs.
++ Defining and reasoning about inductive structures.
++ Probabilistic programming
++ Application of Probabilistic Relational Hoare Logics
+- Program functionally and write verified proofs of programs in Coq
+- Program probabilistically and write verified proofs of programs in EasyCrypt
   
 #### Statement about Academic Integrity
 https://www.uvm.edu/policies/student/acadintegrity.pdf
 
 #### Statement on Alcohol and Cannabis in the Academic Environment
-As a faculty member, I want you to get the most you can out of this course. You play a crucial role in your education and in your readiness to learn and fully engage with the course material. It is important to note that alcohol and cannabis have no place in an academic environment. They can seriously impair your ability to learn and retain information not only in the moment you may be using, but up to 48 hours or more afterwards. In addition, alcohol and cannabis can:
-•	Cause issues with attention, memory and concentration
-•	Negatively impact the quality of how information is processed and ultimately stored
-•	Affect sleep patterns, which interferes with long-term memory formation
-It is my expectation that you will do everything you can to optimize your learning and to fully participate in this course.
+
+As a faculty member, I want you to get the most you can out of this course. You play a crucial role in your education and in your readiness to learn and fully engage with the course material. It is important to note that alcohol and cannabis can seriously impair your ability to learn and retain information up to 48 hours or more after use. 
 
 #### Statement on Students with Disabilities
 
