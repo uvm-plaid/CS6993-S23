@@ -23,8 +23,11 @@ After completing this study the student will be able to:
 
 #### Required Course Materials
 
-You will need to (Software Foundations)[https://softwarefoundations.cis.upenn.edu/lf-current/toc.html].
+All materials are freely available online. Our main text for initial exploration of Coq is [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html). We will also use [EasyCrypt]()- this has an associated [paywalled tutorial text](https://link.springer.com/chapter/10.1007/978-3-319-10082-1_6) that will not be strictly necessary. 
 
+You will also need access to working implementations of Coq and EasyCrypt, and an IDE such as Proof General in Emacs is strongly recommended. 
+
+We will use this Git repo for managing and sharing code. We will  maintain a resources.md file in the repo with links to relevant resources for the course. We have a Team for this course, that you should be a member of if enrolled, that we will use for course-related communications. 
 
 #### Statement about Academic Integrity
 https://www.uvm.edu/policies/student/acadintegrity.pdf
