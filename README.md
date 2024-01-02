@@ -8,7 +8,7 @@
 
 #### Course Description
 
-This course is a seminar-style independent study group focused on automated proof assistants and mechanized metatheory. We will specifically focus on Coq and EasyCrypt. We will investigate both foundational elements of these systems, but our focus will be on practical use. We will mainly consider applications to programming languages, including Hoare Logics, as well as probabilistic programming especially for cryptographic protocols. 
+This course is a seminar-style independent study group focused on automated proof assistants and mechanized metatheory. We will specifically focus on Coq and EasyCrypt. We will investigate both foundational elements of these systems, but our focus will be on practical use. We will mainly consider applications to functional and stateful programming languages as well as probabilistic programming especially for cryptographic protocols. 
 
 #### Learning Objectives
 
