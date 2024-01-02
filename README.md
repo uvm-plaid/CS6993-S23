@@ -13,13 +13,15 @@ This course is a seminar-style independent study group focused on automated proo
 #### Learning Objectives
 
 After completing this study the student will be able to:
+
+- Understand how pen-and-paper logic principles are converted to code in proof assistants. 
 - Understand how to use proof assistants for defining and proving properties of programs, including:
-    - Application of Hoare Logic to functional programs.
+    - Both functional and stateful programs.
     - Defining and reasoning about inductive structures.
     - Probabilistic programming- how and why.
-    - Application of Probabilistic Relational Hoare Logic to probabilistic programs. 
-- Program functionally and write verified proofs of programs in Coq
-- Program probabilistically and write verified proofs of programs in EasyCrypt
+- Write verified proofs of simple functional programs in Coq
+- Write verified proofs of simple probabilistic programs in EasyCrypt
+- Understand and prove probabilistic noninterference of simple programs in EasyCrypt.
 - *maybe* we will learn about Polaris, which is similar to EasyCrypt but is in Coq and incorporates concurrency.
 
 #### Required Course Materials
