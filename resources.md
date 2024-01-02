@@ -53,3 +53,7 @@ https://www.cs.cmu.edu/~rwh/students/tassarotti.pdf
 *coupling* 
 
 https://arxiv.org/pdf/1509.03476.pdf
+
+*probability monads*
+
+https://www.math.harvard.edu/media/JulianAsilisThesis.pdf
