@@ -14,12 +14,13 @@ This course is a seminar-style independent study group focused on automated proo
 
 After completing this study the student will be able to:
 - Understand how to use proof assistants for defining and proving properties of programs, including:
-    - Application of Hoare Logics to functional programs.
+    - Application of Hoare Logic to functional programs.
     - Defining and reasoning about inductive structures.
     - Probabilistic programming- how and why.
-    - Application of Probabilistic Relational Hoare Logics to probabilistic programs. 
+    - Application of Probabilistic Relational Hoare Logic to probabilistic programs. 
 - Program functionally and write verified proofs of programs in Coq
 - Program probabilistically and write verified proofs of programs in EasyCrypt
+- *maybe* we will learn about Polaris, which is similar to EasyCrypt but is in Coq and incorporates concurrency.
 
 #### Required Course Materials
 
