@@ -44,8 +44,6 @@ https://software.imdea.org/~gbarthe/__introrelver.pdf
 
 ### Polaris (Tassorati and Harper)
 
-https://dl.acm.org/doi/10.1145/3290377
-
 https://dl.acm.org/doi/pdf/10.1145/3290377
 
 https://www.cs.cmu.edu/~rwh/students/tassarotti.pdf
