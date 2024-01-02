@@ -23,13 +23,18 @@ After completing this study the student will be able to:
 
 #### Required Course Materials
 
-All materials are freely available online. Our main text for initial exploration of Coq is [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html). We will also use [EasyCrypt]()- this has an associated [paywalled tutorial text](https://link.springer.com/chapter/10.1007/978-3-319-10082-1_6) that will not be strictly necessary. 
+All materials are freely available online. Our main text for initial exploration of Coq is [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html). We will also use [EasyCrypt]()- this has an associated [paywalled tutorial text](https://link.springer.com/chapter/10.1007/978-3-319-10082-1_6) that will not be strictly necessary but you can optionally purchase for reference. 
 
 You will also need access to working implementations of Coq and EasyCrypt, and an IDE such as Proof General in Emacs is strongly recommended. 
 
 We will use this Git repo for managing and sharing code. We will  maintain a resources.md file in the repo with links to relevant resources for the course. We have a Team for this course, that you should be a member of if enrolled, that we will use for course-related communications. 
 
+#### Assessments and Grading Criteria/Policies 
+
+This is an advanced graduate-level seminar course and students will be expected to be highly engaged and self-motivated. Our focus will be on exploring and learning challenging material together. Students are expected to attend all seminars, and each week a different class participant will be responsible for leading discussion of the next topic of study. Student performance evaluation will be based on engagement and quality of in-class presentations, including proofs. 
+
 #### Statement about Academic Integrity
+
 https://www.uvm.edu/policies/student/acadintegrity.pdf
 
 #### Statement on Alcohol and Cannabis in the Academic Environment
