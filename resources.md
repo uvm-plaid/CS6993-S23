@@ -1,4 +1,4 @@
-#### Main Texts:
+### Main Texts:
 
 ##### Software Foundations (Pierce et al.)
 
@@ -8,13 +8,13 @@ https://softwarefoundations.cis.upenn.edu/lf-current/toc.html
 
 http://adam.chlipala.net/cpdt/cpdt.pdf
  
-#### Proof General:
+### Proof General:
 
 https://proofgeneral.github.io/
 
 https://proofgeneral.github.io/doc/master/userman/Basic-Script-Management/#Script-processing-commands
 
-#### Coq:
+### Coq:
 
 https://coq.inria.fr/
 
@@ -22,7 +22,7 @@ https://coq.inria.fr/
 
 https://stackoverflow.com/questions/71945260/proof-by-contradiction-in-coq
 
-#### EasyCrypt:
+### EasyCrypt:
 
 *Misc. Tutorials/reference*
   
@@ -48,7 +48,7 @@ https://dl.acm.org/doi/pdf/10.1145/3290377
 
 https://www.cs.cmu.edu/~rwh/students/tassarotti.pdf
 
-#### Misc. Foundations:
+### Misc. Foundations:
 
 *coupling* 
 
