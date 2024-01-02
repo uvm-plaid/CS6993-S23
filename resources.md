@@ -32,7 +32,7 @@ https://fm.csl.sri.com/SSFT23/easycrypt-tutorial.pdf
 
 https://github.com/EasyCrypt/easycrypt
 
-*Gaboardi Course Notes:* especially notes 1-11, and the second link to a lab on probabilistic noninterference.
+*Gaboardi Course Notes*, especially notes 1-11, and the second link to a lab on probabilistic noninterference.
 
 https://cs-people.bu.edu/gaboardi/teaching/S21-CS591/
 
