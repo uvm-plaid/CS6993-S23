@@ -42,7 +42,7 @@ https://cs-people.bu.edu/gaboardi/teaching/S21-CS591/labs/week7/prhl-noninterfer
 
 https://software.imdea.org/~gbarthe/__introrelver.pdf
 
-### Polaris (Tassorati and Harper):
+### Polaris:
 
 https://dl.acm.org/doi/pdf/10.1145/3290377
 
