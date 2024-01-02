@@ -1,8 +1,8 @@
 ### Main Texts:
 
-##### Software Foundations (Pierce et al.)
+##### Software Foundations (Pierce et al.), especially Volumes 1-2
 
-https://softwarefoundations.cis.upenn.edu/lf-current/toc.html
+https://softwarefoundations.cis.upenn.edu/
 
 ##### Certified Programming with Dependent Types (Chlipala) 
 
