@@ -27,7 +27,7 @@ All materials are freely available online. Our main text for initial exploration
 
 You will also need access to working implementations of Coq and EasyCrypt, and an IDE such as Proof General in Emacs is strongly recommended. 
 
-We will use this Git repo for managing and sharing code. We will  maintain a ''resources.md'' file in the repo with links to relevant resources for the course. We have a Team for this course, that you should be a member of if enrolled, that we will use for course-related communications. 
+We will use this Git repo for managing and sharing code. We will  maintain a resources.md file in the repo with links to relevant resources for the course. We have a Team for this course, that you should be a member of if enrolled, that we will use for course-related communications. 
 
 #### Assessments and Grading Criteria/Policies 
 
