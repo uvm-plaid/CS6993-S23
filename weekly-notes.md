@@ -1,4 +1,4 @@
-# Week 1
+## Week 1
 
 *Definitions completed in Basics.v:*
 - Fixpoint incr
