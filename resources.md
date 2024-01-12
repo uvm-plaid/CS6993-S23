@@ -50,6 +50,10 @@ https://www.cs.cmu.edu/~rwh/students/tassarotti.pdf
 
 ### Misc. Foundations:
 
+*natural deduction rules of first order logic (skalka notes)*
+
+https://ceskalka.w3.uvm.edu/misc/nd.pdf
+
 *coupling* 
 
 https://arxiv.org/pdf/1509.03476.pdf
