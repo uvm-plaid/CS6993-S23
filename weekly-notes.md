@@ -18,6 +18,7 @@
 - Notation: lists
 - app, alternate
 - bags
+- Search
 - rev_length, app_length
 - rev_involutive
 - eqblist_refl
