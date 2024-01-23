@@ -15,8 +15,9 @@
 - Theorem nat_bin_nat 
 
 *Notes for Lists.v*
-- Notation: lists
+- Notation -> lists
 - app, alternate
+- app_assoc
 - bags
 - Search
 - rev_length, app_length
