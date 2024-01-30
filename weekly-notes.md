@@ -16,12 +16,19 @@
 
 *Notes for Lists.v*
 - bin_nat_bin
-- Notation: lists
+- notation (lists)
 - app, alternate
-- app_assoc
-- bags
+- (skip) bags
 - Search
 - rev_length, app_length
 - rev_involutive
-- eqblist_refl
-- remove_does_not_increase_count
+  - involution_injective
+  - rev_injective
+- partial_map, find, update_eq, update_neq
+
+*Notes for Poly.v*
+- general polymorphism
+- (same) rev_app_distr, rev_involutive 
+- split
+- anon function, high-order arguments
+- map_rev
