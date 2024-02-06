@@ -32,3 +32,6 @@
 - split
 - anon function, high-order arguments
 - map_rev
+- fold, fold_length, fold_map
+- partial application
+- church numerals
