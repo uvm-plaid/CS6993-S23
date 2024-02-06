@@ -30,7 +30,7 @@
 - general polymorphism
 - (same) rev_app_distr, rev_involutive 
 - split
-- anon function, high-order arguments
+- anon function, higher-order arguments
 - map_rev
 - fold, fold_length, fold_map
 - partial application
